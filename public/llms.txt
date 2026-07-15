@@ -1,0 +1,152 @@
+# Future ai inovation — Generative Engine Optimization Map
+
+> Landing pages - for campaigns, products, or services
+
+Marketing websites - for businesses, portfolios, service providers
+
+Catalog sites - to showcase products and
+
+services
+
+Online stores - with shopping cart and
+
+checkout
+
+Online course sites - with lesson pages,
+
+videos, and learning content
+
+---
+
+## Pages
+
+### Home
+https://future-ai-inovation-f0eb1af9.zappy5.app
+Future ai inovation delivers cutting-edge AI innovation solutions for startups ready to scale. Explore landing pages, stores, and course sites built for growth. Launch your vision today.
+
+### Campaign Landing Pages
+https://future-ai-inovation-f0eb1af9.zappy5.app/campaign-landing-pages
+Turn clicks into customers with campaign landing pages engineered for AI early adopter tools and strategies. Capture leads, test ideas, and drive results. Start converting now.
+
+### Marketing Websites
+https://future-ai-inovation-f0eb1af9.zappy5.app/marketing-websites
+Stand out with marketing websites that harness future AI technology for businesses US. Showcase your portfolio, attract clients, and dominate your niche. Build your brand today.
+
+### Showcase Experiences
+https://future-ai-inovation-f0eb1af9.zappy5.app/showcase-experiences
+Transform browsing into buying with catalog sites optimized for AI innovation solutions. Showcase products and services with immersive, high-converting experiences. Elevate your catalog now.
+
+### Course Sites
+https://future-ai-inovation-f0eb1af9.zappy5.app/course-sites
+Launch online course sites with videos and lessons powered by AI early adopter tools and strategies. Engage learners, scale your knowledge, and build revenue. Start teaching today.
+
+### Contact
+https://future-ai-inovation-f0eb1af9.zappy5.app/contact
+Ready to deploy enterprise AI innovation consulting for your next project? Reach out to Future ai inovation and let&#39;s build scalable, future-ready solutions together. Connect now.
+
+### Cart
+https://future-ai-inovation-f0eb1af9.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://future-ai-inovation-f0eb1af9.zappy5.app/checkout
+Checkout
+
+### Login
+https://future-ai-inovation-f0eb1af9.zappy5.app/login
+Customer Login
+
+### Account
+https://future-ai-inovation-f0eb1af9.zappy5.app/account
+My Account
+
+### Order Success
+https://future-ai-inovation-f0eb1af9.zappy5.app/order-success
+Thank you for enrolling in
+
+### Thank You
+https://future-ai-inovation-f0eb1af9.zappy5.app/thank-you
+Future ai inovation - Thank You
+
+### Courses
+https://future-ai-inovation-f0eb1af9.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://future-ai-inovation-f0eb1af9.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://future-ai-inovation-f0eb1af9.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://future-ai-inovation-f0eb1af9.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://future-ai-inovation-f0eb1af9.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://future-ai-inovation-f0eb1af9.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://future-ai-inovation-f0eb1af9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://future-ai-inovation-f0eb1af9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://future-ai-inovation-f0eb1af9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Future ai inovation
+Landing pages - for campaigns, products, or services
+
+Marketing websites - for businesses, portfolios, service providers
+
+Catalog sites - to showcase products and
+
+services
+
+Online stores - with shopping cart and
+
+checkout
+
+Online course sites - with lesson pages,
+
+videos, and learning content
+
+## Target Audience
+- AI Early Adopters
+- Corporate Innovators
+- Startup Entrepreneurs
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://future-ai-inovation-f0eb1af9.zappy5.app/sitemap.xml
+- Robots: https://future-ai-inovation-f0eb1af9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://future-ai-inovation-f0eb1af9.zappy5.app/llms-full.txt
+- Products (JSON): https://future-ai-inovation-f0eb1af9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://future-ai-inovation-f0eb1af9.zappy5.app/product-feed.xml
