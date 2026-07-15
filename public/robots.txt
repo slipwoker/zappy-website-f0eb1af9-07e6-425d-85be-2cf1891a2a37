@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://future-ai-inovation-f0eb1af9.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
