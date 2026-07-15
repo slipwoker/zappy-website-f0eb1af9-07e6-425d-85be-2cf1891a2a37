@@ -1,139 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://future-ai-inovation.zappy5.app</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/campaign-landing-pages</loc>
+    <loc>https://future-ai-inovation.zappy5.app/campaign-landing-pages</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/marketing-websites</loc>
+    <loc>https://future-ai-inovation.zappy5.app/marketing-websites</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/showcase-experiences</loc>
+    <loc>https://future-ai-inovation.zappy5.app/showcase-experiences</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/course-sites</loc>
+    <loc>https://future-ai-inovation.zappy5.app/course-sites</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
+    <loc>https://future-ai-inovation.zappy5.app/contact</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
+    <loc>https://future-ai-inovation.zappy5.app/cart</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
+    <loc>https://future-ai-inovation.zappy5.app/checkout</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://future-ai-inovation.zappy5.app/login</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
+    <loc>https://future-ai-inovation.zappy5.app/account</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
+    <loc>https://future-ai-inovation.zappy5.app/order-success</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/thank-you</loc>
+    <loc>https://future-ai-inovation.zappy5.app/courses</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/courses</loc>
+    <loc>https://future-ai-inovation.zappy5.app/category/:slug</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
+    <loc>https://future-ai-inovation.zappy5.app/courses/:slug</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/courses/:slug</loc>
+    <loc>https://future-ai-inovation.zappy5.app/lesson/:lessonId</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/lesson/:lessonId</loc>
+    <loc>https://future-ai-inovation.zappy5.app/my-learning</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/my-learning</loc>
+    <loc>https://future-ai-inovation.zappy5.app/certificate/:code</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/certificate/:code</loc>
+    <loc>https://future-ai-inovation.zappy5.app/thank-you</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://future-ai-inovation.zappy5.app/privacy</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://future-ai-inovation.zappy5.app/terms</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/courses</loc>
+    <loc>https://future-ai-inovation.zappy5.app/accessibility</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://future-ai-inovation.zappy5.app/courses</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/courses/ai-human-in-the-loop-ydgfdv</loc>
+    <loc>https://future-ai-inovation.zappy5.app/courses/ai-human-in-the-loop-ydgfdv</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

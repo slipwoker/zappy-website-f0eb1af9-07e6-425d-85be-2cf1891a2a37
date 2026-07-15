@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T16:43:50.974Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-15T16:44:17.897Z",
+  "base_url": "https://future-ai-inovation.zappy5.app",
   "currency": "USD",
   "count": 1,
   "products": [
@@ -21,7 +21,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/ai-human-in-the-loop-ydgfdv",
+      "url": "https://future-ai-inovation.zappy5.app/product/ai-human-in-the-loop-ydgfdv",
       "categories": [],
       "updated_at": "2026-07-15T16:38:33.961Z"
     }

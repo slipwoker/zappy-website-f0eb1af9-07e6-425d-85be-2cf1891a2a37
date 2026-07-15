@@ -21,89 +21,89 @@ videos, and learning content
 ## Pages
 
 ### Home
-https://example.com
+https://future-ai-inovation.zappy5.app
 Future ai inovation delivers cutting-edge AI innovation solutions for startups ready to scale. Explore landing pages, stores, and course sites built for growth. Launch your vision today.
 
 ### Campaign Landing Pages
-https://example.com/campaign-landing-pages
+https://future-ai-inovation.zappy5.app/campaign-landing-pages
 Turn clicks into customers with campaign landing pages engineered for AI early adopter tools and strategies. Capture leads, test ideas, and drive results. Start converting now.
 
 ### Marketing Websites
-https://example.com/marketing-websites
+https://future-ai-inovation.zappy5.app/marketing-websites
 Stand out with marketing websites that harness future AI technology for businesses US. Showcase your portfolio, attract clients, and dominate your niche. Build your brand today.
 
 ### Showcase Experiences
-https://example.com/showcase-experiences
+https://future-ai-inovation.zappy5.app/showcase-experiences
 Transform browsing into buying with catalog sites optimized for AI innovation solutions. Showcase products and services with immersive, high-converting experiences. Elevate your catalog now.
 
 ### Course Sites
-https://example.com/course-sites
+https://future-ai-inovation.zappy5.app/course-sites
 Launch online course sites with videos and lessons powered by AI early adopter tools and strategies. Engage learners, scale your knowledge, and build revenue. Start teaching today.
 
 ### Contact
-https://example.com/contact
+https://future-ai-inovation.zappy5.app/contact
 Ready to deploy enterprise AI innovation consulting for your next project? Reach out to Future ai inovation and let&#39;s build scalable, future-ready solutions together. Connect now.
 
 ### Cart
-https://example.com/cart
+https://future-ai-inovation.zappy5.app/cart
 Your Cart
 
 ### Checkout
-https://example.com/checkout
+https://future-ai-inovation.zappy5.app/checkout
 Checkout
 
 ### Login
-https://example.com/login
+https://future-ai-inovation.zappy5.app/login
 Customer Login
 
 ### Account
-https://example.com/account
+https://future-ai-inovation.zappy5.app/account
 My Account
 
 ### Order Success
-https://example.com/order-success
+https://future-ai-inovation.zappy5.app/order-success
 Thank you for enrolling in
 
-### Thank You
-https://example.com/thank-you
-Future ai inovation - Thank You
-
 ### Courses
-https://example.com/courses
+https://future-ai-inovation.zappy5.app/courses
 Browse all available courses.
 
 ### Course Category
-https://example.com/category/:slug
+https://future-ai-inovation.zappy5.app/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://example.com/courses/:slug
+https://future-ai-inovation.zappy5.app/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://example.com/lesson/:lessonId
+https://future-ai-inovation.zappy5.app/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://example.com/my-learning
+https://future-ai-inovation.zappy5.app/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://example.com/certificate/:code
+https://future-ai-inovation.zappy5.app/certificate/:code
 Verify a course completion certificate.
+
+### Thank You
+https://future-ai-inovation.zappy5.app/thank-you
+Future ai inovation - Thank You
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://future-ai-inovation.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://future-ai-inovation.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://future-ai-inovation.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -113,7 +113,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### Ai human in the loop
-https://example.com/product/ai-human-in-the-loop-ydgfdv
+https://future-ai-inovation.zappy5.app/product/ai-human-in-the-loop-ydgfdv
 - Price: 0.00 USD
 - Availability: In stock
 
@@ -150,8 +150,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://future-ai-inovation.zappy5.app/sitemap.xml
+- Robots: https://future-ai-inovation.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://future-ai-inovation.zappy5.app/llms-full.txt
+- Products (JSON): https://future-ai-inovation.zappy5.app/products.json
+- Products (Google Merchant RSS): https://future-ai-inovation.zappy5.app/product-feed.xml
