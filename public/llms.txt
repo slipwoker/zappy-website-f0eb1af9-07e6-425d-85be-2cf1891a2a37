@@ -110,7 +110,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### Ai human in the loop
+https://example.com/product/ai-human-in-the-loop-ydgfdv
+- Price: 0.00 USD
+- Availability: In stock
 
 ---
 
